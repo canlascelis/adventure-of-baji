@@ -6,3 +6,4 @@ This game is not finished yet and still buggy.
 
 ## Preview
 ![Game Preview](assets/game-preview.png)
+
